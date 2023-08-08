@@ -28,12 +28,19 @@ ${data.description}
 ${data.installation}
 ## Usage
 ${data.usage}
-##Contribution
+## Contribution
 ${data.contribution}
-## test
+## Test
 ${data.test}
-##questions
+## GitHub
+${data.github}
+## Profile
+${data.profile}
+## Questions
 ${data.questions}
+## Email 
+${data.email}
+
 `;
 }
 
