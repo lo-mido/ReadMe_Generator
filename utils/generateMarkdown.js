@@ -28,6 +28,12 @@ ${data.description}
 ${data.installation}
 ## Usage
 ${data.usage}
+##Contribution
+${data.contribution}
+## test
+${data.test}
+##questions
+${data.questions}
 `;
 }
 

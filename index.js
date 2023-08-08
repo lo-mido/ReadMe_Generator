@@ -24,6 +24,21 @@ const questions = [
         name: "usage"
     },
     {
+        type: "input",
+        message: " How to contribute to this project?",
+        name: "contribution"
+    },
+    {
+        type: "input",
+        message: " How to test this application?",
+        name: "test"
+    },
+    {
+        type: "input",
+        message: " Enter GitHub Username?", "Enter your email address"
+        name: "questions"
+    },
+    {
         type: "list",
         message: "Which license is needed for this project?",
         name: "license",
