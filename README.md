@@ -1,5 +1,7 @@
-# ReadmeGenerator
-
+# asd [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-This is a node app that cerates areadme.md
-
+asd
+## Installation 
+asd
+## Usage
+asd
