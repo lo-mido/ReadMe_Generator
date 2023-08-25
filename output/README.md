@@ -1,4 +1,5 @@
- # Read Me Generator  
+
+  # Read Me Generator  
     
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -13,18 +14,18 @@
   - [Questions](#questions)
 
   ## Description
-  To create a Read Me Generator using Node, NPM modules. 
+  To create a Read Me Generator using the backend via Node, NPM and Inqurier. 
   ## Installation 
-  VS Code, Node, Npm and Inquirer. 
+  Node, NPM, Inquirer 
   ## Usage
-  To generate a Readme File to utilize as a template. 
+  Download Github Repo
   ## Contribution
-  Contact me via Github.
+  Contact me via Github 
   ## Test
-  Run the code on Vs Code. 
+  Run in intergrated terminal using node 
   ## Question
-  lo-mido
-  ld@yahoo.com
+  lo-mido 
+  lodo@yahoo.com
 
   
   

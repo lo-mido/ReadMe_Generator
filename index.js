@@ -1,3 +1,4 @@
+// Inquirer node package manager import and to link the generate markdown file. 
 const fs = require('fs');
 const inquirer = require('inquirer')
 const generatedMarkdown = require("./generateMarkdown")
@@ -66,7 +67,7 @@ const writeToFile = (fileName, data) => {
 
 const init = () => {
     inquirer.prompt(questions).then((data) => {
-        writeToFile("README.md", generatedMarkdown(data))
+        writeToFile("./output/README.md", generatedMarkdown(data))
     })
 }
 
